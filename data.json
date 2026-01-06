@@ -1,0 +1,97 @@
+{
+  "personal": {
+    "name": "Kishan Rajdev",
+    "title": "Researcher | Full-Stack Engineer",
+    "bio": "I am a master’s student in Computer Science (thesis) at Troy University with a strong focus on research. During my graduate studies, I have worked on multiple research projects spanning machine learning, computer vision, uncertainty estimation, trustworthy AI, and interdisciplinary data analysis research in American football. I have a solid foundation in computer science fundamentals and currently maintaining a 4.0 GPA in my graduate studies. I also have prior industry experience as a full-stack engineer in startups and product-based companies, where I contributed to the development of scalable real-world systems. I am interested in pursuing a research-oriented career in academia or industry.",
+    "profileImage": "assets/images/profile.png",
+    "links": {
+      "cv": {
+        "url": "assets/kishanrajdev.pdf",
+        "label": "CV"
+      },
+      "email": {
+        "url": "mailto:kishanrajdev047@gmail.com",
+        "label": "Email"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/in/kishan-rajdev-03593a55",
+        "label": "LinkedIn"
+      },
+      "github": {
+        "url": "https://github.com/kishanrajdev",
+        "label": "GitHub"
+      }
+    }
+  },
+  "research": {
+    "intro": "",
+    "areas": [
+      {
+        "title": "A Comparative Study of Non-Bayesian Ensemble Methods for Uncertainty Quantification in Image Classification",
+        "description": " I conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Batch Ensembles, and Hyper-Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using SVHN. This work is also submitted to CVPR 2026 and is under review."
+      },
+      {
+        "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
+        "description": "Proposed a lightweight extension of Snapshot Ensembles that enhances robustness by selecting only snapshots that are meaningfully diverse in parameter space using cosine similarity and in prediction space using prediction disagreement on a validation set. This research has been submitted to ACMSE 2026 and is under review."
+      },
+      {
+        "title": "Uncertainty-Aware Skin Cancer Classification with Deep Ensembles",
+        "description": "Evaluated deep ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. This work has been submitted as a poster paper to ACMSE 2026."
+      },
+      {
+        "title": "Adaptive Coverage Planning Under Uncertainty in Autonomous Cleaning Robots",
+        "description": "I built a POMDP-based planning framework for a robot operating in a grid-based environment under partial observability, where the robot maintains a dirt-belief for each tile to make cleaning decisions under uncertainty. This research has been submitted to CVPR 2026 and is under review."
+      },
+      {
+        "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
+        "description": "co-authored this interdisciplinary project with Troy University’s Sports Management faculty, where I performed data preprocessing and ANCOVA to analyze multi-factor influences on NIL values. This research has been submitted to the Journal of Sports Economics and is under review."
+      },
+      {
+        "title": "Secure Standard-Based Approach to Cloud Interoperability in E-Government",
+        "description": "co-authored this research, which aimed to strengthen cloud interoperability for e-government systems by adopting a multi-cloud architecture to avoid vendor lock-in. I contributed to conducting interoperability experiments across Azure and AWS. This work has been accepted at CloudTech'25. "
+      }
+    ]
+  },
+  "experience": [
+    {
+      "title": "ADVANCED SOFTWARE ENGINEER",
+      "company": "Siemens Ltd.",
+      "period": "Sep 2022 - Jan 2025",
+      "description": "Worked on the development of the Additive Manufacturing Network, an online order-to-delivery collaboration platform for the industrial additive manufacturing community."
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "company": "JPMorgan Chase & Co.",
+      "period": "Dec 2021 - Aug 2023",
+      "description": "Worked involved deveoping and maintaining plugins for JPMC's Aurora platform."
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "company": "M&G plc.",
+      "period": "Apr 2019 - Nov 2021",
+      "description": "Worked on the development of M&G’s customer portal, myaccount.mandg.com which provides users with a platform to manage their investment portfolios."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Zensar Technologies",
+      "period": "May 2017 - Mar 2019",
+      "description": "Worked on the development of an e-commerce website of Woolworths (woolworths.co.za), South Africa's largest retail chain."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Wingify Pvt. Ltd.",
+      "period": "Dec 2015 - May 2017",
+      "description": "Contributed to the development Pushcrew (by VWO), a SaaS push notification product."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Pepperfry.com",
+      "period": "Jan 2015 - Dec 2015",
+      "description": "Pepperfry is an Indian online marketplace for furniture and home decor. Contributed to the development of their web application and REST APIs for their mobile application."
+    }
+  ],
+  "footer": {
+    "copyright": "Kishan Rajdev",
+    "design": "HTML5 UP"
+  }
+}
