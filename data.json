@@ -28,7 +28,7 @@
     "areas": [
       {
         "title": "A Comparative Study of Non-Bayesian Ensemble Methods for Uncertainty Quantification in Image Classification",
-        "description": " I conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Batch Ensembles, and Hyper-Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using SVHN. This work is also submitted to CVPR 2026 and is under review."
+        "description": " I conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Batch Ensembles, and Hyper-Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using SVHN."
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
@@ -37,10 +37,6 @@
       {
         "title": "Uncertainty-Aware Skin Cancer Classification with Deep Ensembles",
         "description": "Evaluated deep ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. This work has been submitted as a poster paper to ACMSE 2026."
-      },
-      {
-        "title": "Adaptive Coverage Planning Under Uncertainty in Autonomous Cleaning Robots",
-        "description": "I built a POMDP-based planning framework for a robot operating in a grid-based environment under partial observability, where the robot maintains a dirt-belief for each tile to make cleaning decisions under uncertainty. This research has been submitted to CVPR 2026 and is under review."
       },
       {
         "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
