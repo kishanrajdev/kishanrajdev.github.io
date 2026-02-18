@@ -27,8 +27,8 @@
     "intro": "",
     "areas": [
       {
-        "title": "A Comparative Study of Non-Bayesian Ensemble Methods for Uncertainty Quantification in Image Classification",
-        "description": " I conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Batch Ensembles, and Hyper-Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using SVHN."
+        "title": "The Computational Efficiency–Performance Trade-Off in Non-Bayesian Ensemble Methods for Image Classification",
+        "description": "Conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using iSUN dataset."
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
