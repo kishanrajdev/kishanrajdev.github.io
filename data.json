@@ -2,7 +2,7 @@
   "personal": {
     "name": "Kishan Rajdev",
     "title": "Full-Stack Engineer | Researcher",
-    "bio": "I am a master’s student in Computer Science (thesis) at Troy University with a strong focus on research. During my graduate studies, I have worked on multiple research projects spanning machine learning, computer vision, uncertainty estimation, trustworthy AI, and interdisciplinary data analysis research in American football. I have a solid foundation in computer science fundamentals and currently maintaining a 4.0 GPA in my graduate studies. I also have prior industry experience as a full-stack engineer in startups and product-based companies, where I contributed to the development of scalable real-world systems. I am interested in pursuing a research-oriented career in academia or industry.",
+    "bio": "I am a master's student in Computer Science (thesis) at Troy University with a strong focus on research. During my graduate studies, I have worked on multiple research projects spanning machine learning, computer vision, uncertainty estimation, trustworthy AI, and interdisciplinary data analysis in sports analytics. I have a solid foundation in computer science fundamentals and currently maintain a 4.0 GPA in my graduate studies. I also have prior industry experience as a full-stack engineer in startups and product-based companies, where I contributed to developing scalable real-world systems. I am interested in pursuing a research-oriented career in academia or industry.",
     "profileImage": "assets/images/profile.png",
     "links": {
       "cv": {
@@ -10,7 +10,7 @@
         "label": "CV"
       },
       "email": {
-        "url": "mailto:kishanrajdev047@gmail.com",
+        "url": "mailto:krajdev@troy.edu",
         "label": "Email"
       },
       "linkedin": {
@@ -27,24 +27,24 @@
     "intro": "",
     "areas": [
       {
-        "title": "The Computational Efficiency–Performance Trade-Off in Non-Bayesian Ensemble Methods for Image Classification",
-        "description": "Conducted a comprehensive evaluation of Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles for uncertainty quantification in image classification. The study involved assessing in-distribution accuracy and calibration on CIFAR-10, robustness under distribution shift (CIFAR-10-C), and out-of-distribution detection using iSUN dataset."
+        "title": "The Computational Efficiency-Performance Trade-Off in Non-Bayesian Ensemble Methods for Image Classification",
+        "description": "Evaluated ensemble methods for uncertainty estimation in deep learning and analyzed how model diversity influences robustness under distribution shift, comparing Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles on CIFAR-10, CIFAR-10-C, and iSUN benchmarks. Under review at IMPROVE 2026."
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
-        "description": "Proposed a lightweight extension of Snapshot Ensembles that enhances robustness by selecting only snapshots that are meaningfully diverse in parameter space using cosine similarity and in prediction space using prediction disagreement on a validation set. This research has been submitted to ACMSE 2026 and is under review."
+        "description": "Proposed a lightweight extension of Snapshot Ensembles that improves robustness by selecting diverse snapshots using cosine similarity in parameter space and prediction disagreement in output space on a validation set. Accepted at ACMSE 2026."
       },
       {
         "title": "Uncertainty-Aware Skin Cancer Classification with Deep Ensembles",
-        "description": "Evaluated deep ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. This work has been submitted as a poster paper to ACMSE 2026."
+        "description": "Evaluated Deep Ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. Accepted as a poster at ACMSE 2026."
       },
       {
         "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
-        "description": "co-authored this interdisciplinary project with Troy University’s Sports Management faculty, where I performed data preprocessing and ANCOVA to analyze multi-factor influences on NIL values. This research has been submitted to the Journal of Sports Economics and is under review."
+        "description": "Contributed to an interdisciplinary research project with Troy University's Sports Management faculty, performing data preprocessing and ANCOVA to analyze factors influencing collegiate football NIL valuations."
       },
       {
         "title": "Secure Standard-Based Approach to Cloud Interoperability in E-Government",
-        "description": "co-authored this research, which aimed to strengthen cloud interoperability for e-government systems by adopting a multi-cloud architecture to avoid vendor lock-in. I contributed to conducting interoperability experiments across Azure and AWS. This work has been accepted at CloudTech'25. "
+        "description": "Contributed to research on improving cloud interoperability in e-government systems using a multi-cloud architecture to mitigate vendor lock-in by conducting interoperability experiments across Azure and AWS. Accepted at CloudTech'25. "
       }
     ]
   },
