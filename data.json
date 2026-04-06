@@ -28,7 +28,7 @@
     "areas": [
       {
         "title": "The Computational Efficiency-Performance Trade-Off in Non-Bayesian Ensemble Methods for Image Classification",
-        "description": "Evaluated ensemble methods for uncertainty estimation in deep learning and analyzed how model diversity influences robustness under distribution shift, comparing Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles on CIFAR-10, CIFAR-10-C, and iSUN benchmarks. Under review at IMPROVE 2026."
+        "description": "Evaluated ensemble methods for uncertainty estimation in deep learning and analyzed how model diversity influences robustness under distribution shift, comparing Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles on CIFAR-10, CIFAR-10-C, and iSUN benchmarks. Accepted at Image Processing and Vision Engineering (IMPROVE) 2026."
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
