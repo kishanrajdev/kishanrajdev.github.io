@@ -32,11 +32,11 @@
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
-        "description": "Proposed a lightweight extension of Snapshot Ensembles that improves robustness by selecting diverse snapshots using cosine similarity in parameter space and prediction disagreement in output space on a validation set. Accepted at ACMSE 2026."
+        "description": "Proposed a lightweight extension of Snapshot Ensembles that improves robustness by selecting diverse snapshots using cosine similarity in parameter space and prediction disagreement in output space on a validation set. Accepted at ACM Southeast 2026."
       },
       {
         "title": "Uncertainty-Aware Skin Cancer Classification with Deep Ensembles",
-        "description": "Evaluated Deep Ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. Accepted as a poster at ACMSE 2026."
+        "description": "Evaluated Deep Ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. Accepted as a poster at ACM Southeast 2026."
       },
       {
         "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
