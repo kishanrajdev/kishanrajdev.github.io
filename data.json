@@ -32,19 +32,19 @@
       },
       {
         "title": "Diversity-Enhanced Snapshot Ensembles (DESE)",
-        "description": "Proposed a lightweight extension of Snapshot Ensembles that improves robustness by selecting diverse snapshots using cosine similarity in parameter space and prediction disagreement in output space on a validation set. Accepted at ACM Southeast 2026."
+        "description": "Proposed a lightweight extension of Snapshot Ensembles that improves robustness by selecting diverse snapshots using cosine similarity in parameter space and prediction disagreement in output space on a validation set. Short paper published at ACM Southeast 2026 (https://doi.org/10.1145/3746467.3801503)."
       },
       {
         "title": "Uncertainty-Aware Skin Cancer Classification with Deep Ensembles",
-        "description": "Evaluated Deep Ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. Accepted as a poster at ACM Southeast 2026."
+        "description": "Evaluated Deep Ensembles for seven-class skin lesion classification using the ISIC dataset, demonstrating improved diagnostic accuracy and well-calibrated uncertainty estimates for risk-sensitive medical applications. Poster published at ACM Southeast 2026 (https://doi.org/10.1145/3746467.3801505)."
       },
       {
         "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
-        "description": "Contributed to an interdisciplinary research project with Troy University's Sports Management faculty, performing data preprocessing and ANCOVA to analyze factors influencing collegiate football NIL valuations. Accepted in Sport Marketing Quarterly."
+        "description": "Contributed to an interdisciplinary research project with Troy University's Sports Management faculty, performing data preprocessing and ANCOVA to analyze factors influencing collegiate football NIL valuations. Published in Sport Marketing Quarterly (https://doi.org/10.1177/1061693426145916)."
       },
       {
-        "title": "Secure Standard-Based Approach to Cloud Interoperability in E-Government",
-        "description": "Contributed to research on improving cloud interoperability in e-government systems using a multi-cloud architecture to mitigate vendor lock-in by conducting interoperability experiments across Azure and AWS. Accepted at CloudTech'25. "
+        "title": "AAKG-RAG: Aspect-Aware Knowledge Graph Retrieval for Product Question Answering From User Reviews",
+        "description": "Proposed a two-stage aspect-aware knowledge graph retrieval framework that structures product reviews into an aspect-centric knowledge graph and combines sentiment-aware retrieval with MMR reranking to improve review-based question answering. Under review at the IEEE International Conference on Knowledge Graph (ICKG 2026). "
       }
     ]
   },
