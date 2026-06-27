@@ -39,10 +39,46 @@ fetch('data.json')
         div.classList.add('with-border');
       }
 
-      div.innerHTML = `
-        <h3>${area.title}</h3>
-        <p>${area.description}</p>
-      `;
+      const title = document.createElement('h3');
+      title.textContent = area.title;
+
+      const description = document.createElement('p');
+      const urlPattern = /(https?:\/\/[^\s)]+)([.)]?)?/g;
+      let lastIndex = 0;
+      let match;
+
+      while ((match = urlPattern.exec(area.description)) !== null) {
+        const [fullMatch, url, trailingPunctuation = ''] = match;
+        const startIndex = match.index;
+
+        if (startIndex > lastIndex) {
+          description.appendChild(
+            document.createTextNode(area.description.slice(lastIndex, startIndex))
+          );
+        }
+
+        const link = document.createElement('a');
+        link.href = url;
+        link.textContent = url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        description.appendChild(link);
+
+        if (trailingPunctuation) {
+          description.appendChild(document.createTextNode(trailingPunctuation));
+        }
+
+        lastIndex = startIndex + fullMatch.length;
+      }
+
+      if (lastIndex < area.description.length) {
+        description.appendChild(
+          document.createTextNode(area.description.slice(lastIndex))
+        );
+      }
+
+      div.appendChild(title);
+      div.appendChild(description);
 
       researchAreas.appendChild(div);
     });
