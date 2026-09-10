@@ -27,6 +27,10 @@
     "intro": "",
     "areas": [
       {
+        "title": "AAKG-RAG: Aspect-Aware Knowledge Graph Retrieval for Product Question Answering From User Reviews",
+        "description": "Proposed a two-stage aspect-aware knowledge graph retrieval framework that structures product reviews into an aspect-centric knowledge graph and combines sentiment-aware retrieval with MMR reranking to improve review-based question answering. Accepted at the IEEE International Conference on Knowledge Graph (ICKG 2026). "
+      },
+      {
         "title": "The Computational Efficiency-Performance Trade-Off in Non-Bayesian Ensemble Methods for Image Classification",
         "description": "Evaluated ensemble methods for uncertainty estimation in deep learning and analyzed how model diversity influences robustness under distribution shift, comparing Deep Ensembles, Snapshot Ensembles, Fast Geometric Ensembling, and Noisy Deep Ensembles on CIFAR-10, CIFAR-10-C, and iSUN benchmarks. Accepted at Image Processing and Vision Engineering (IMPROVE) 2026."
       },
@@ -41,10 +45,6 @@
       {
         "title": "Show Me the Money: Factors Contributing to Collegiate Football NIL Valuations",
         "description": "Contributed to an interdisciplinary research project with Troy University's Sports Management faculty, performing data preprocessing and ANCOVA to analyze factors influencing collegiate football NIL valuations. Published in Sport Marketing Quarterly (https://doi.org/10.1177/1061693426145916)."
-      },
-      {
-        "title": "AAKG-RAG: Aspect-Aware Knowledge Graph Retrieval for Product Question Answering From User Reviews",
-        "description": "Proposed a two-stage aspect-aware knowledge graph retrieval framework that structures product reviews into an aspect-centric knowledge graph and combines sentiment-aware retrieval with MMR reranking to improve review-based question answering. Under review at the IEEE International Conference on Knowledge Graph (ICKG 2026). "
       }
     ]
   },
